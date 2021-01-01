@@ -17,7 +17,7 @@ Setup:
 ```
 fork this repository
 
-download code on your Local Macine 
+download code on your Local Machine 
 
 Unpack this Extension in Chrome Dev Mode and Run the Extension
 ```
