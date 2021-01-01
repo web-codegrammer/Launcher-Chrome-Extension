@@ -8,16 +8,18 @@ This is the First Chrome Extension Developed by me
 
 - I have learnt that how can you build a chrome Extension from Scratch .
 
-> Here is a Screenshot of it looks and functionality.
+> Here is a Screenshot of its view in the browser and functionality .
 
-![alt text](https://github.com/web-codegrammer/Socket.io-Real-Time-Tweet-Stream/blob/main/img/Tweet%20Stream.png)
+![alt text](https://github.com/web-codegrammer/Launcher-Chrome-Extension/blob/main/Extension%20view%20in%20Browser.jpg)
 
 
 Setup:
 ```
-npm install
+fork this repository
 
-npm start & npm run dev
+download code on your Local Macine 
+
+Unpack this Extension in Chrome Dev Mode and Run the Extension
 ```
 
 ## License 
