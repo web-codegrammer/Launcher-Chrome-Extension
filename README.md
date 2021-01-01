@@ -15,15 +15,15 @@ This is the First Chrome Extension Developed by me
 
 Setup:
 ```
-fork this repository
+Fork this repository
 
-download code on your Local Machine 
+Download code on your Local Machine 
 
 Unpack this Extension in Chrome Dev Mode and Run the Extension
 ```
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Socket.io-Real-Time-Tweet-Stream/blob/main/LICENSE)
+[MIT](https://github.com/web-codegrammer/Launcher-Chrome-Extension/blob/main/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2020-2021 web-codegrammer All Rights Reserved | 2020
